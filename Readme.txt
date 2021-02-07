@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
-Template Name: Bethany
-Template URL: https://bootstrapmade.com/bethany-free-onepage-bootstrap-theme/
+Template Name: MyPortfolio
+Template URL: https://bootstrapmade.com/myportfolio-bootstrap-portfolio-website-template/
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
