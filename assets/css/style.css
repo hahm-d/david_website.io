@@ -139,27 +139,6 @@ h1, h2, h3, h4, h5, h6, .font-heading {
   visibility: visible;
 }
 
-.testimonial-wrap {
-  padding: 50px 50px 80px 50px;
-  background: #eceff2;
-}
-
-.testimonial-wrap .testimonial {
-  text-align: center;
-  max-width: 500px;
-  margin: 0 auto;
-}
-
-.testimonial-wrap .testimonial img {
-  border-radius: 50%;
-  width: 120px;
-  margin: 0 auto 30px auto;
-}
-
-.testimonial-wrap .testimonial blockquote p {
-  font-size: 20px;
-}
-
 .h3 {
   font-size: 20px;
 }
@@ -191,34 +170,6 @@ h1, h2, h3, h4, h5, h6, .font-heading {
   color: #fff;
   text-decoration: none;
   background: #000;
-}
-
-.testimonial-carousel .owl-dots {
-  position: absolute;
-  bottom: 40px;
-  width: 100%;
-  text-align: center;
-}
-
-.testimonial-carousel .owl-dots .owl-dot {
-  display: inline-block;
-}
-
-.testimonial-carousel .owl-dots .owl-dot > span {
-  display: inline-block;
-  width: 7px;
-  height: 7px;
-  background-color: #cbd3da;
-  border-radius: 50%;
-  margin: 5px;
-}
-
-.testimonial-carousel .owl-dots .owl-dot.active {
-  outline: none;
-}
-
-.testimonial-carousel .owl-dots .owl-dot.active > span {
-  background: #0d1e2d;
 }
 
 .sticky-content {
@@ -501,4 +452,14 @@ h1, h2, h3, h4, h5, h6, .font-heading {
 
 .social a:hover {
   color: #000;
+}
+
+
+
+/*--------------------------------------------------------------
+# Custom for David
+--------------------------------------------------------------*/
+
+.services {
+  justify-content: space-evenly;
 }
